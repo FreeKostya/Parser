@@ -1,0 +1,24 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myParser.js",
+  "dependencies": {
+    "chromedriver": "^86.0.0",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreeKostya/Parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreeKostya/Parser/issues"
+  },
+  "homepage": "https://github.com/FreeKostya/Parser#readme"
+}
